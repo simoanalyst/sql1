@@ -5,7 +5,7 @@ last_name varchar(55),
 age int,
 country varchar(55),
 check (age >= 18));
--- inserting values in our database
+-- inserting values in our table Customers
 insert into Customers (customer_id, first_name, last_name, age, country) values
 (1, 'John', 'Doe',31, 'USA'),
 (2,'Robert', 'Luna', 22, 'USA'),
