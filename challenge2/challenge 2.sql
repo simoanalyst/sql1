@@ -14,7 +14,7 @@ insert into Customers (customer_id, first_name, last_name, age, country) values
 (5, 'Betty', 'Doe', 28, 'UAE');
 
 
-select * from Orders;
+-- creating orders table
 create table Orders(
 orders_id int primary key,
 item varchar(55),
