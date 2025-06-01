@@ -1,0 +1,13 @@
+sale_id	salesperson	salesperson_region	region	sale_amount	sale_date
+1	Alice	Alice East	East	5000	2024-01-01
+2	Bob	Bob East	East	7000	2024-01-03
+3	Charlie	Charlie West	West	6000	2024-01-02
+4	Alice	Alice East	East	4500	2024-01-07
+5	Charlie	Charlie West	West	7200	2024-01-10
+6	Bob	Bob East	East	8000	2024-01-15
+7	Diana	Diana South	South	4000	2024-01-18
+8	Eli	Eli South	South	3000	2024-01-20
+9	Alice	Alice East	East	6700	2024-01-22
+10	Charlie	Charlie West	West	9000	2024-01-25
+11	Diana	Diana South	South	5500	2024-01-27
+12	Eli	Eli South	South	6200	2024-01-30
